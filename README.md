@@ -1,4 +1,4 @@
-# Conversions
+# binar_to_decimal.cpp
 Convert a Binary number into decimal using c++
 #include<bits/stdc++.h>
 using namespace std;
